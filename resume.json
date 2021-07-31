@@ -1,0 +1,57 @@
+{
+	"basics": {
+		"name": "Bhavya Meena",
+		"label": "Student",
+		"picture": "https://github.com/ashishjangir02082001/Resume/blob/main/WhatsApp%20Image%202021-07-30%20at%2023.03.48.jpeg",
+		"email": "2019kucp1110@iiitkota.ac.in",
+		"phone": "6378779685",
+		"summary": "A B-Tech, Computer Science student at Indian Institute of Information technology, Kota(India).",
+		"location": {
+			"address": "B/63 Jai hind nagar police line ",
+			"postalCode": "324001",
+			"city": "Kota",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "bhavyameena",
+				"url": "https://gist.github.com/bhavyameena"
+			},
+			{
+				"network": "linkedin",
+				"username": "Bhavya Meena",
+				"url": "https://www.linkedin.com/in/bhavya-meena-75129b198"
+			},
+			{
+				"network": "Instagram",
+				"username": "@bhavya__forever",
+				"url": "https://instagram.com/bhavya__forever?utm_medium=copy_link"
+			}
+		]
+	},
+	
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-02-08",
+		"endDate": "2023",
+		"gpa": "7.42 (till 4th sem)",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Intermediate",
+		"keywords": ["HTML", "CSS", "C/C++", "Python(beginner)", "MySQL"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Badminton", "cricket"]
+	},
+	{
+		"name": "E-sports (Competitive mobile gaming)",
+	}],
+}
